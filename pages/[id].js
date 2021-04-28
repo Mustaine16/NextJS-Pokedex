@@ -1,4 +1,5 @@
 import Link from 'next/Link'
+
 export default function PokemonData({ pokemon }) {
   return (
     <main>
